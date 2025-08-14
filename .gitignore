@@ -162,6 +162,9 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# PyCharm stuff
+.idea/
+
 # pytype static type analyzer
 .pytype/
 
